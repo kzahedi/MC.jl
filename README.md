@@ -3,7 +3,7 @@
 
 Quantifying Morphological Computation
 
-Implementation of the measures from
+Implementation of measures from
 
 Quantifying Morphological Computation, Zahedi & Ay, Entropy, 2013: [[pdf](http://www.mdpi.com/1099-4300/15/5/1887)]
 
